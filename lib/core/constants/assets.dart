@@ -1,0 +1,1 @@
+const staticPath = 'assets/images';
